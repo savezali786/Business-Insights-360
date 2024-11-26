@@ -13,9 +13,6 @@ I worked on this project by following the Codebasics PowerBi Course,
 Here is my report link - https://app.powerbi.com/view?r=eyJrIjoiMzUwMTU5ZDctODRhNi00ZjA1LWEzYWItOWMwMGFkNTFiZjg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 
-Here is my presentation link - https://www.linkedin.com/posts/akash-singh-dataanalyst_datafam-connections-dataanalytics-activity-7185268759052353536-j3zq?utm_source=share&utm_medium=member_desktop
-
-
 ## Datasets:
 
 Before diving into analysis, understanding the datasets is crucial. The datasets consist of two tables:
@@ -53,7 +50,7 @@ Data modeling is essential because it lays the foundation for reports. All visua
 In this project, we have followed the Snowflake schema data modeling method. 
 
 
-![data model](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/2285afcc-e8f4-4b94-abae-ea1d89e6cba9)
+![data model](https://github.com/savezali786/Business-Insights-360/assets/146354971/2285afcc-e8f4-4b94-abae-ea1d89e6cba9)
 
 
 ## Power BI Dashboard Overview:
@@ -62,32 +59,32 @@ The dashboard comprises six pages-->
 
 ### Home Page: A landing page with buttons to navigate to different pages.
 
-![home page](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/6e2f5d22-f8e6-45a5-816f-bf494b123766)
+![home page](https://github.com/savezali786/Business-Insights-360/assets/146354971/6e2f5d22-f8e6-45a5-816f-bf494b123766)
 
 
 ### Finance Page: Focuses on improving financial planning, budgeting processes, and cost control. Includes Profit and Loss statements, Top and Bottom Products and Customers by Net Sales, and more.
 
-![finance page](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/9a5fed55-40fa-471a-a9ef-762870c0bc7a)
+![finance page](https://github.com/savezali786/Business-Insights-360/assets/146354971/9a5fed55-40fa-471a-a9ef-762870c0bc7a)
 
 
 ### Sales Page: Aims to increase sales revenue and market share. Features Customer performance by Net Sales, Gross Margin, Gross Margin %, and more.
 
-![sales page](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/4a1ca097-8c59-4c4d-b5bf-7e9fa5ab3aef)
+![sales page](https://github.com/savezali786/Business-Insights-360/assets/146354971/4a1ca097-8c59-4c4d-b5bf-7e9fa5ab3aef)
 
 
 ### Marketing Page: Aims to increase brand visibility and customer engagement. Provides Segment Performance by Gross Margin% and Net Profit%, and more.
 
-![marketing page](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/822ac56d-6d9d-494e-88fd-e81ec23df0a2)
+![marketing page](https://github.com/savezali786/Business-Insights-360/assets/146354971/822ac56d-6d9d-494e-88fd-e81ec23df0a2)
 
 
 ### Supply Chain Page: Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more.
 
-![supply chain](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/2ac6c4f5-2b34-45f4-94fe-a0cea0b3627c)
+![supply chain](https://github.com/savezali786/Business-Insights-360/assets/146354971/2ac6c4f5-2b34-45f4-94fe-a0cea0b3627c)
 
 
 ### Executive Page: Provides an overview of the organization's performance for top management. Includes Net Sales, Gross Margin%, Net Profit%, Revenue Contribution by channel, Top 5 Customer and Product, Sub Region performance, and more.
 
-![executive page](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/cff56379-243d-4e2e-96e5-e21e1624de3f)
+![executive page](https://github.com/savezali786/Business-Insights-360/assets/146354971/cff56379-243d-4e2e-96e5-e21e1624de3f)
 
 
 ## Skills Learned:
